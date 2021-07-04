@@ -1,0 +1,38 @@
+*{
+    margin:0px auto;
+}
+/* body
+{
+    background-color: blueviolet;
+} */
+.main
+{
+    height: 100vh;
+}
+.colors
+{
+    height:30%;
+    width: 80%;
+    margin-top: 6px;
+    border:darkgray solid 3px;
+    border-radius: 8px;
+}
+.buttonStyle
+{
+    height: 20%;
+    width:14%;
+    background-color: darkgray;
+    font-size: 1.5rem;
+    color: darkslategrey;
+    margin-left:40%;
+    margin-top:6%;
+    border-radius: 9px;
+
+}
+
+.textstyle{
+    margin-left: 39%;
+    margin-top: 3%;
+    font-size: 1.4rem;
+    font-weight:700;
+}
